@@ -1,14 +1,15 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>所有文章 - 我的全新 Hugo 网站</title>
-        <link>http://example.org/posts/</link>
-        <description>所有文章 | 我的全新 Hugo 网站</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><lastBuildDate>Wed, 05 Jan 2022 17:52:00 &#43;0800</lastBuildDate><atom:link href="http://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+        <title>所有文章 - Seafish&#39;s Blog</title>
+        <link>https://siifish.github.io/posts/</link>
+        <description>所有文章 | Seafish&#39;s Blog</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>1092107433@qq.com (Seafish)</managingEditor>
+            <webMaster>1092107433@qq.com (Seafish)</webMaster><lastBuildDate>Wed, 05 Jan 2022 17:52:00 &#43;0800</lastBuildDate><atom:link href="https://siifish.github.io/posts/" rel="self" type="application/rss+xml" /><item>
     <title>First_post</title>
-    <link>http://example.org/posts/my-first-post-python-project-structure/</link>
+    <link>https://siifish.github.io/my-first-post-python-project-structure/</link>
     <pubDate>Wed, 05 Jan 2022 17:52:00 &#43;0800</pubDate>
     <author>作者</author>
-    <guid>http://example.org/posts/my-first-post-python-project-structure/</guid>
+    <guid>https://siifish.github.io/my-first-post-python-project-structure/</guid>
     <description><![CDATA[Python项目通用的目录结构总结 引用链接： Python项目通用的目录结构总结_阿丹的彩蛋-CSDN博客_python项目结构 python开]]></description>
 </item></channel>
 </rss>
